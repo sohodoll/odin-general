@@ -1,2 +1,0 @@
-# odin-general
-odin-general
